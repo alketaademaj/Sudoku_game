@@ -1,8 +1,16 @@
 .App {
   text-align: center;
+  align-items: center;
+  justify-content: center;
+  float: center;
 }
-
-.App-header {
+.centerAlign{
+  display: flex;
+  width: 100%;
+  margin: auto;
+  justify-content: center;
+}
+/* .App-header {
   background-color: #282c34;
   min-height: 100vh;
   display: flex;
@@ -11,26 +19,48 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
-}
+} */
 
 .App-link {
   color: #61dafb;
 }
 
 .aBox{
-  margin-top:5px;
-  margin-right:5px;
+  margin:2px;
   height:50px;
   width:50px;
   background-color: rgb(219, 93, 93);
+  transition: .1s ease-in-out;
   border-radius: 3px; 
 }
 .aBox:hover{
-  background-color: ;
+  background-color: rgb(165, 70, 70);
+}
+.aBox:click{
+  background-color:green ;
+}
+
+.allBox{
+  /* display: flex; */
+  margin:none;
+  border: 1px #282c34 solid;
 }
 .nineBox{
   display:flex;
-  width: 180px;
+  width: 168px;
   flex-wrap: wrap;
+  border:2px solid black;
   /* justify-content: space-between;   */
+}
+
+.complete{
+  display: flex;
+  flex-wrap: wrap;
+  width: 520px;
+}
+
+.selectNro {
+  display: inline-block;
+  display: flex;
+  margin-top: 20px;
 }

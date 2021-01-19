@@ -1,0 +1,275 @@
+[0119/183133.967:ERROR:directory_reader_win.cc(43)] FindFirstFile: Määritettyä polkua ei löydy. (0x3)
+[0119/204309.593:ERROR:directory_reader_win.cc(43)] FindFirstFile: Määritettyä polkua ei löydy. (0x3)
+[0119/213910.821:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1eee0bdf580 of 72 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.821:WARNING:pe_image_annotations_reader.cc(135)] could not read annotations list object in C:\Program Files (x86)\Google\Chrome\Application\87.0.4280.141\chrome_elf.dll
+[0119/213910.822:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1eee0c244b0 of 72 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.822:WARNING:pe_image_annotations_reader.cc(135)] could not read annotations list object in C:\Program Files (x86)\Google\Chrome\Application\87.0.4280.141\chrome.dll
+[0119/213910.830:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff6750d0000 of 64 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.831:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[0119/213910.831:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fff99eb0000 of 64 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.831:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\ntdll.dll
+[0119/213910.831:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fff991a0000 of 64 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.831:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\KERNEL32.DLL
+[0119/213910.831:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fff97650000 of 64 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.831:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\KERNELBASE.dll
+[0119/213910.831:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fff7abc0000 of 64 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.831:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\87.0.4280.141\chrome_elf.dll
+[0119/213910.831:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fff8fd30000 of 64 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.831:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\VERSION.dll
+[0119/213910.831:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fff98ca0000 of 64 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.831:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\msvcrt.dll
+[0119/213910.831:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fff99b00000 of 64 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.831:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\ADVAPI32.dll
+[0119/213910.831:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fff98000000 of 64 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.831:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\sechost.dll
+[0119/213910.831:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fff99070000 of 64 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.831:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\RPCRT4.dll
+[0119/213910.831:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fff19410000 of 64 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.831:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\87.0.4280.141\chrome.dll
+[0119/213910.832:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fff992e0000 of 64 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.832:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\WS2_32.dll
+[0119/213910.832:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fff980a0000 of 64 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.832:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\OLEAUT32.dll
+[0119/213910.832:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fff97cb0000 of 64 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.832:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\msvcp_win.dll
+[0119/213910.832:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fff97920000 of 64 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.832:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\ucrtbase.dll
+[0119/213910.832:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fff98420000 of 64 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.832:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\combase.dll
+[0119/213910.832:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fff975f0000 of 64 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.832:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\WINTRUST.dll
+[0119/213910.832:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fff97a70000 of 64 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.832:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\CRYPT32.dll
+[0119/213910.832:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fff95740000 of 64 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.832:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\dbghelp.dll
+[0119/213910.832:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fff969f0000 of 64 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.832:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL
+[0119/213910.832:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fff95940000 of 64 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.832:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINMM.dll
+[0119/213910.832:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fff69490000 of 64 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.832:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\UIAutomationCore.DLL
+[0119/213910.832:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fff892b0000 of 64 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.832:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\Secur32.dll
+[0119/213910.833:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fff974e0000 of 64 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.833:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\USERENV.dll
+[0119/213910.833:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fff85960000 of 64 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.833:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\DWrite.dll
+[0119/213910.833:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fff8e840000 of 64 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.833:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINSPOOL.DRV
+[0119/213910.833:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fff94610000 of 64 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.833:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINHTTP.dll
+[0119/213910.833:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fff8f410000 of 64 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.833:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\dhcpcsvc.DLL
+[0119/213910.833:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fff92510000 of 64 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.833:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\PROPSYS.dll
+[0119/213910.833:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fff974a0000 of 64 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.833:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\SSPICLI.DLL
+[0119/213910.833:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fff97100000 of 64 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.833:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\MSASN1.dll
+[0119/213910.833:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fff97c00000 of 64 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.833:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\bcryptPrimitives.dll
+[0119/213910.833:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fff96ef0000 of 64 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.834:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\CRYPTBASE.DLL
+[0119/213910.834:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff6750d0000 of 64 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.834:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[0119/213910.834:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fff99eb0000 of 64 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.834:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\ntdll.dll
+[0119/213910.834:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fff991a0000 of 64 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.834:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\KERNEL32.DLL
+[0119/213910.834:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fff97650000 of 64 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.834:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\KERNELBASE.dll
+[0119/213910.834:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fff7abc0000 of 64 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.834:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\87.0.4280.141\chrome_elf.dll
+[0119/213910.834:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fff8fd30000 of 64 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.834:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\VERSION.dll
+[0119/213910.834:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fff98ca0000 of 64 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.834:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\msvcrt.dll
+[0119/213910.834:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fff99b00000 of 64 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.834:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\ADVAPI32.dll
+[0119/213910.834:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fff98000000 of 64 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.835:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\sechost.dll
+[0119/213910.835:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fff99070000 of 64 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.835:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\RPCRT4.dll
+[0119/213910.835:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fff19410000 of 64 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.835:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\87.0.4280.141\chrome.dll
+[0119/213910.835:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fff992e0000 of 64 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.835:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\WS2_32.dll
+[0119/213910.835:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fff980a0000 of 64 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.835:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\OLEAUT32.dll
+[0119/213910.835:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fff97cb0000 of 64 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.835:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\msvcp_win.dll
+[0119/213910.835:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fff97920000 of 64 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.835:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\ucrtbase.dll
+[0119/213910.835:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fff98420000 of 64 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.835:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\combase.dll
+[0119/213910.835:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fff975f0000 of 64 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.835:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\WINTRUST.dll
+[0119/213910.835:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fff97a70000 of 64 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.835:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\CRYPT32.dll
+[0119/213910.836:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fff95740000 of 64 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.836:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\dbghelp.dll
+[0119/213910.836:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fff969f0000 of 64 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.836:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL
+[0119/213910.836:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fff95940000 of 64 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.836:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINMM.dll
+[0119/213910.836:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fff69490000 of 64 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.836:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\UIAutomationCore.DLL
+[0119/213910.836:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fff892b0000 of 64 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.836:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\Secur32.dll
+[0119/213910.836:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fff974e0000 of 64 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.836:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\USERENV.dll
+[0119/213910.836:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fff85960000 of 64 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.836:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\DWrite.dll
+[0119/213910.836:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fff8e840000 of 64 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.836:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINSPOOL.DRV
+[0119/213910.836:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fff94610000 of 64 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.836:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINHTTP.dll
+[0119/213910.837:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fff8f410000 of 64 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.837:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\dhcpcsvc.DLL
+[0119/213910.837:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fff92510000 of 64 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.837:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\PROPSYS.dll
+[0119/213910.837:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fff974a0000 of 64 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.837:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\SSPICLI.DLL
+[0119/213910.837:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fff97100000 of 64 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.837:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\MSASN1.dll
+[0119/213910.837:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fff97c00000 of 64 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.837:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\bcryptPrimitives.dll
+[0119/213910.837:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fff96ef0000 of 64 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.837:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\CRYPTBASE.DLL
+[0119/213910.852:ERROR:process_memory_win.cc(73)] ReadMemory at 0xb6e7f3000 of 53248 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.852:ERROR:process_memory_win.cc(73)] ReadMemory at 0xb6effd000 of 12288 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.852:ERROR:process_memory_win.cc(73)] ReadMemory at 0xb6f7fe000 of 8192 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.852:ERROR:process_memory_win.cc(73)] ReadMemory at 0xb6fffe000 of 8192 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.853:ERROR:process_memory_win.cc(73)] ReadMemory at 0xb707fd000 of 12288 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.853:ERROR:process_memory_win.cc(73)] ReadMemory at 0xb70ffe000 of 8192 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.853:ERROR:process_memory_win.cc(73)] ReadMemory at 0xb717fe000 of 8192 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.853:ERROR:process_memory_win.cc(73)] ReadMemory at 0xb71ffe000 of 8192 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.853:ERROR:process_memory_win.cc(73)] ReadMemory at 0xb727fd000 of 12288 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.853:ERROR:process_memory_win.cc(73)] ReadMemory at 0xb72ffe000 of 8192 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.853:ERROR:process_memory_win.cc(73)] ReadMemory at 0xb737fe000 of 8192 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.853:ERROR:process_memory_win.cc(73)] ReadMemory at 0xb73ffe000 of 8192 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.854:ERROR:process_memory_win.cc(73)] ReadMemory at 0xb747fe000 of 8192 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.854:ERROR:process_memory_win.cc(73)] ReadMemory at 0xb74ffe000 of 8192 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.854:ERROR:process_memory_win.cc(73)] ReadMemory at 0xb757fe000 of 8192 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.854:ERROR:process_memory_win.cc(73)] ReadMemory at 0xb75ffe000 of 8192 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.854:ERROR:process_memory_win.cc(73)] ReadMemory at 0xb6df58000 of 852 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.854:ERROR:process_memory_win.cc(73)] ReadMemory at 0xb6df59000 of 6024 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.854:ERROR:process_memory_win.cc(73)] ReadMemory at 0xb6df5b000 of 6024 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.855:ERROR:process_memory_win.cc(73)] ReadMemory at 0xb6df5d000 of 6024 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.855:ERROR:process_memory_win.cc(73)] ReadMemory at 0xb6df5f000 of 6024 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.855:ERROR:process_memory_win.cc(73)] ReadMemory at 0xb6df61000 of 6024 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.855:ERROR:process_memory_win.cc(73)] ReadMemory at 0xb6df63000 of 6024 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.855:ERROR:process_memory_win.cc(73)] ReadMemory at 0xb6df65000 of 6024 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.855:ERROR:process_memory_win.cc(73)] ReadMemory at 0xb6df67000 of 6024 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.855:ERROR:process_memory_win.cc(73)] ReadMemory at 0xb6df69000 of 6024 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.855:ERROR:process_memory_win.cc(73)] ReadMemory at 0xb6df6b000 of 6024 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.856:ERROR:process_memory_win.cc(73)] ReadMemory at 0xb6df6d000 of 6024 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.856:ERROR:process_memory_win.cc(73)] ReadMemory at 0xb6df6f000 of 6024 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.856:ERROR:process_memory_win.cc(73)] ReadMemory at 0xb6df71000 of 6024 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.856:ERROR:process_memory_win.cc(73)] ReadMemory at 0xb6df73000 of 6024 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.856:ERROR:process_memory_win.cc(73)] ReadMemory at 0xb6df75000 of 6024 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.857:ERROR:process_memory_win.cc(73)] ReadMemory at 0xb6df77000 of 6024 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.857:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1eee0bd0000 of 384 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.857:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1eee0bd0fe0 of 17848 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.857:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1eee0bd55a0 of 1012 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.857:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1eee0bd5be8 of 118 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.857:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1eee0bd5c60 of 710 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.857:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1eee0bd5f28 of 118 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.857:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1eee0bd5fa0 of 98 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.857:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1eee0bd6010 of 58 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.857:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1eee0bd6110 of 132 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.858:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1eee0bd62a0 of 132 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.858:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1eee0bd6460 of 126 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.858:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1eee0bd6960 of 132 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.858:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1eee0bd6af0 of 64 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.858:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1eee0bd6cb0 of 132 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.858:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1eee0bd6f70 of 132 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.858:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1eee0bd7100 of 68 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.858:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1eee0bd81c0 of 132 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.859:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1eee0bd82f0 of 154 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.859:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1eee0bd90d0 of 62 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.859:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1eee0bd9230 of 132 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.859:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1eee0bd93c0 of 60 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.859:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1eee0bec9b0 of 132 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.859:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1eee0bee120 of 132 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.859:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1eee0bf2060 of 60 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.860:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1eee0bf55b0 of 132 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.860:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1eee0bf72c0 of 132 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.860:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1eee0bf73f0 of 146 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.860:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1eee0bf7510 of 64 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.860:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1eee0bf7560 of 64 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.860:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1eee0bf7650 of 64 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.860:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1eee0bf76a0 of 62 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.860:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1eee0bf7790 of 58 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.860:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1eee0bf7830 of 62 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.861:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1eee0bf7880 of 62 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.861:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1eee0bf78d0 of 62 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.861:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1eee0bf7b50 of 62 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.861:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1eee0bf7c40 of 60 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.861:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1eee0bf7e20 of 64 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.861:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1eee0bf8000 of 64 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.861:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1eee0bf8050 of 64 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.862:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1eee0bf80a0 of 62 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.862:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1eee0bf80f0 of 60 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.862:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1eee0bf8190 of 66 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.862:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1eee0bf8230 of 62 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.862:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1eee0bf8280 of 64 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.862:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1eee0bf8370 of 62 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.862:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1eee0bf83c0 of 62 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.862:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1eee0bf8410 of 60 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.863:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1eee0bf95d0 of 132 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.863:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1eee0bf9920 of 132 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.863:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1eee0bf9b80 of 132 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.863:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1eee0bf9cb0 of 132 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.863:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1eee0bf9de0 of 132 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.863:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1eee0bf9f10 of 132 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.863:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1eee0bfa040 of 132 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.863:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1eee0bfa170 of 132 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.863:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1eee0bfa2a0 of 132 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.864:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1eee0bfa3d0 of 132 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.864:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1eee0bfa500 of 132 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.864:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1eee0bfa630 of 132 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.864:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1eee0bfa760 of 132 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.864:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1eee0bfa890 of 132 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.864:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1eee0bfa9c0 of 132 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.864:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1eee0bfc980 of 132 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.864:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1eee0bfcab0 of 132 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.865:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1eee0bfcdd0 of 132 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.865:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1eee0bffb40 of 80 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.865:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1eee0bffcc0 of 80 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.865:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1eee0c00010 of 132 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.865:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1eee0c01310 of 132 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.865:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1eee0c016a0 of 132 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.865:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1eee0c4a770 of 768 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.865:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1eee0c4ae70 of 512 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.865:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1eee0c56bb0 of 512 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.866:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1eee0c5ab30 of 512 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.866:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1eee0c5beb0 of 512 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.866:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1eee0c64eb8 of 512 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.866:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1eee0c79430 of 512 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.866:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1eee0c81770 of 512 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.866:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1eee0c89400 of 712 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.866:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1eee0c9c400 of 512 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.866:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1eee0d21cc0 of 512 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.867:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1eee26ef330 of 512 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.867:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1eee278c8d0 of 512 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.867:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1eee2795720 of 512 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.867:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1eee27981a0 of 512 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.867:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1eee28a6b38 of 512 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.867:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1eee2933e80 of 512 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.867:ERROR:process_memory_win.cc(73)] ReadMemory at 0x4cd7b8a9e088 of 512 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.867:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fff1d4c4235 of 512 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.867:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fff21288f88 of 512 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.867:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fff2179ccd0 of 512 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.867:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fff2218d438 of 512 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.868:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fff96ef0000 of 384 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.868:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fff978de748 of 512 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.868:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fff991c4a50 of 512 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.868:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fff99f4bfb4 of 672 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.868:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fff99f4c5b4 of 512 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.868:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fff99f4f924 of 608 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.868:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fff99fe0a00 of 18 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.868:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fff9a0154f8 of 40 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.868:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fff9a015978 of 48 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.868:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fff9a01b4c0 of 64 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
+[0119/213910.872:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: Yritettiin käyttää suljettavaa prosessia. (0xc000010a)
