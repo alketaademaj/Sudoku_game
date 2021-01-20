@@ -2,36 +2,21 @@ import React, { Component } from 'react'
 import NumberBox from './NumberBox' //same file reference can you hear me?
 
 export class NineBox extends Component {
-
     constructor(props) {
         super(props)
-
-        if(props.val != null) {
-            this.state = {
-                alks: props.val,
-                tans: props.biggerBox,
-                value: props.valuebox
-            } 
-        }
-        else {
-            this.state = {
-                alks: null
-            }
-        }
     }
+    
 
     render() {
+
+        const column = [1,2,3,4,5,6,7,8,9]
+
         return (
             <div className="nineBox">
-                <NumberBox val = {this.state.alks[0]} tans = {this.state.tans} passingValue = {this.state.value} />
-                <NumberBox val = {this.state.alks[1]} tans = {this.state.tans} passingValue = {this.state.value} />
-                <NumberBox val = {this.state.alks[2]} tans = {this.state.tans} passingValue = {this.state.value} />
-                <NumberBox val = {this.state.alks[3]} tans = {this.state.tans} passingValue = {this.state.value} />
-                <NumberBox val = {this.state.alks[4]} tans = {this.state.tans} passingValue = {this.state.value} />
-                <NumberBox val = {this.state.alks[5]} tans = {this.state.tans} passingValue = {this.state.value} />
-                <NumberBox val = {this.state.alks[6]} tans = {this.state.tans} passingValue = {this.state.value} />
-                <NumberBox val = {this.state.alks[7]} tans = {this.state.tans} passingValue = {this.state.value} />
-                <NumberBox val = {this.state.alks[8]} tans = {this.state.tans} passingValue = {this.state.value} />
+
+                {column.map((ind, val) => {
+                    return <NumberBox key = {ind} column = {ind} passingValue = {this.props.passingValue} row = {this.props.row}/>
+                })}
             </div>
         )
     }

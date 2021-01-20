@@ -6,7 +6,7 @@ import SelectNumber from './components/SelectNumber'
 function App() {
   return (
     <div className="App">
-      <h1>Sudoku Puzzle</h1>
+      <h1>DUMDUMDUMDUM</h1>
       <div className="centerAlign">
         <CompleteBox />
       </div>

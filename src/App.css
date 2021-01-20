@@ -43,20 +43,18 @@
 .allBox{
   /* display: flex; */
   margin:none;
-  border: 1px #282c34 solid;
 }
 .nineBox{
   display:flex;
-  width: 168px;
+  flex-direction: row;
   flex-wrap: wrap;
-  border:2px solid black;
   /* justify-content: space-between;   */
 }
 
 .complete{
   display: flex;
   flex-wrap: wrap;
-  width: 520px;
+  width: 490px;
 }
 
 .selectNro {
