@@ -273,3 +273,4 @@
 [0119/213910.868:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fff9a015978 of 48 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
 [0119/213910.868:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fff9a01b4c0 of 64 bytes failed: Vain osa ReadProcessMemory- tai WriteProcessMemory-pyynnöstä suoritettiin. (0x12B)
 [0119/213910.872:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: Yritettiin käyttää suljettavaa prosessia. (0xc000010a)
+[0120/201028.343:ERROR:directory_reader_win.cc(43)] FindFirstFile: Määritettyä polkua ei löydy. (0x3)
