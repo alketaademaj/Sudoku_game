@@ -7,12 +7,13 @@ export class CompleteBox extends Component {
         super(props)
     
         this.state = {
-            selected: [],
+            selected: [undefined, undefined]
         }
     }
-    
-    onClick = (row, column) => {
+
+    onclick = (row, column) => {
         this.setState({selected: [row, column]})
+        //console.log(this.state.selected)
     };
 
     render() {
@@ -20,7 +21,7 @@ export class CompleteBox extends Component {
         const row = []
 
         for(let x = 1; x <=9; x++) {
-            row.push(<NineBox key={x} row = {x} passingValue = {this.onClick}/>)
+            row.push(<NineBox key={x} row = {x} passingValue = {this.onclick} selected = {this.state.selected} />)
         }
 
         return (

@@ -15,7 +15,7 @@ export class NineBox extends Component {
             <div className="nineBox">
 
                 {column.map((ind, val) => {
-                    return <NumberBox key = {ind} column = {ind} passingValue = {this.props.passingValue} row = {this.props.row}/>
+                    return <NumberBox key = {ind} column = {ind} passingValue = {this.props.passingValue} row = {this.props.row} selected = {this.props.selected} />
                 })}
             </div>
         )

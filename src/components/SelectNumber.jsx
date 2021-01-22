@@ -18,7 +18,7 @@ export class SelectNumber extends Component {
         return (
           <div className="selectNro">
             {[...Array(9)].map((x, i) => (
-              <NumberBox key={i} value={i+1} passingValue={this.props.onClick} column={i+1}/>
+              <NumberBox key={i} value={i+1} passingValue={this.props.onClick} column={i+1} row = {10} selected = {[]}/>
             ))}
           </div>
         );
