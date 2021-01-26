@@ -2,10 +2,6 @@ import React, { Component } from 'react'
 import NumberBox from './NumberBox' //same file reference can you hear me?
 
 export class NineBox extends Component {
-    constructor(props) {
-        super(props)
-    }
-    
 
     render() {
 
@@ -15,7 +11,7 @@ export class NineBox extends Component {
             <div className="nineBox">
 
                 {column.map((ind, val) => {
-                    return <NumberBox key = {ind} column = {ind} passingValue = {this.props.passingValue} row = {this.props.row} selected = {this.props.selected} />
+                    return <NumberBox key = {ind} column = {ind} passingValue = {this.props.passingValue} row = {this.props.row} selected = {this.props.selected}  numbValue = {this.props.numbValue} />
                 })}
             </div>
         )

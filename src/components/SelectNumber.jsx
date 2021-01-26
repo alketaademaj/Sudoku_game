@@ -1,24 +1,16 @@
 import React, { Component } from 'react'
-import NumberBox from './NumberBox'
+import ChangeNumber from './ChangeNumber'
 
 //no state, using hooks 
 
 export class SelectNumber extends Component {
-    constructor(props) {
-        super(props)
-    }
-    
-    
-    onClick = (epsilon, ypsilon) =>{
-        console.log(epsilon)
-    }
 
     render() {
 
         return (
           <div className="selectNro">
             {[...Array(9)].map((x, i) => (
-              <NumberBox key={i} value={i+1} passingValue={this.props.onClick} column={i+1} row = {10} selected = {[]}/>
+              <ChangeNumber key={i} value={i+1}  numbValue = {this.props.numbValue} /> //like calling a function in javascript example(one,two,three)
             ))}
           </div>
         );

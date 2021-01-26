@@ -33,13 +33,17 @@
   transition: .1s ease-in-out;
   border-radius: 3px; 
 }
+.smallBox {
+  margin:2px;
+  height:50px;
+  width:50px;
+  background-color: rgb(219, 93, 93);
+  transition: .1s ease-in-out;
+  border-radius: 3px; 
+}
 .aBox:hover{
   background-color: rgb(165, 70, 70);
 }
-.aBox:click{
-  background-color:green ;
-}
-
 .allBox{
   /* display: flex; */
   margin:none;
