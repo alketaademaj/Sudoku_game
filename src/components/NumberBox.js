@@ -8,7 +8,11 @@ export class NumberBox extends Component {
     this.state = {
       address: [this.props.row, this.props.column],
       selected: this.props.selected,
+<<<<<<< HEAD
       color: '',
+=======
+      color: ''
+>>>>>>> c3a7b9269b184eeec05734125b8dc4488b0c1613
     };
   }
 //Alks what we were doing inside the onclick method we created I moved it to componentDidUpdate method
@@ -22,6 +26,7 @@ export class NumberBox extends Component {
 // and when it will re-render it will againg run componentDidUpdate and so it will again run this.setState({ color: 'blue' })
 //and so on... so to stop that we are checking if the props we are getting from parent component if different from 
 //pervious props we got if they are differernt then only we are changing executing the color change.
+<<<<<<< HEAD
 //let me know if you need more explanation for this. :) --> whenever the state or props update, the component rerenders 
 
   componentDidUpdate(prevProps) { //this.state without a condition -> goes to infinite loop
@@ -29,6 +34,14 @@ export class NumberBox extends Component {
       // console.log(this.props.selected.toString(),this.state.address.toString())
       if (this.props.selected.toString() === this.state.address.toString()) {
         this.setState({ color: 'rgb(139, 11, 11)' })
+=======
+//let me know if you need more explanation for this. :)
+  componentDidUpdate(prevProps) { 
+    if (prevProps.selected !== this.props.selected) {
+      // console.log(this.props.selected.toString(),this.state.address.toString())
+      if (this.props.selected.toString() === this.state.address.toString()) {
+        this.setState({ color: 'blue' })
+>>>>>>> c3a7b9269b184eeec05734125b8dc4488b0c1613
         //  console.log("blue color set for ", this.state.address)
       }
       else {
@@ -47,10 +60,22 @@ export class NumberBox extends Component {
     return (
       <div className="allBox">
         <div
+<<<<<<< HEAD
           className="aBox" style={{ backgroundColor: this.state.color }} onClick={() => this.props.passingValue(this.props.row, this.props.column)} numbValue = {this.props.numbValue} >
+=======
+          className="aBox" style={{ backgroundColor: this.state.color }} onClick={() => this.props.passingValue(this.props.row, this.props.column)} >
+          {this.props.row},{this.props.column}
+>>>>>>> c3a7b9269b184eeec05734125b8dc4488b0c1613
         </div>
       </div>
     );
   }
 }
+<<<<<<< HEAD
 export default NumberBox
+=======
+export default NumberBox
+
+
+
+>>>>>>> c3a7b9269b184eeec05734125b8dc4488b0c1613
