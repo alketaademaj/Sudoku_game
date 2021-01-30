@@ -29,7 +29,7 @@
   margin:2px;
   height:50px;
   width:50px;
-  background-color: rgb(219, 93, 93);
+  background-color: rgb(147, 194, 216);
   transition: .1s ease-in-out;
   border-radius: 3px; 
 }
@@ -37,12 +37,12 @@
   margin:2px;
   height:50px;
   width:50px;
-  background-color: rgb(219, 93, 93);
+  background-color: rgb(147, 194, 216);
   transition: .1s ease-in-out;
   border-radius: 3px; 
 }
 .aBox:hover{
-  background-color: rgb(165, 70, 70);
+  background-color: rgb(83, 142, 160);
 }
 .allBox{
   /* display: flex; */

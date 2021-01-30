@@ -18,11 +18,11 @@ export class NumberBox extends Component {
     if (prevProps.selected !== this.props.selected) { //what the value of selected was before this one
       // console.log(this.props.selected.toString(),this.state.address.toString())
       if (this.props.selected.toString() === this.state.address.toString()) {
-        this.setState({ color: 'rgb(139, 11, 11)' })
+        this.setState({ color: 'rgb(43, 134, 161)' })
         //  console.log("blue color set for ", this.state.address)
       }
       else {
-        this.setState({ color: 'rgb(219, 93, 93)' })
+        this.setState({ color: 'rgb(147, 194, 216)' })
         //  console.log("pink color set for ", this.state.address)
       }
       this.setState({ selected: this.props.selected });
