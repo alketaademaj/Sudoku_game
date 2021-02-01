@@ -11,8 +11,7 @@ export class NumberBox extends Component {
       color: ''
     };
   }
-
-//let me know if you need more explanation for this. :) --> whenever the state or props update, the component rerenders 
+ //--> whenever the state or props update, the component rerenders 
 
   componentDidUpdate(prevProps) { //this.state without a condition -> goes to infinite loop
     if (prevProps.selected !== this.props.selected) { //what the value of selected was before this one

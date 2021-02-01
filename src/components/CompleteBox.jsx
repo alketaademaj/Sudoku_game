@@ -3,6 +3,8 @@ import NineBox from './NineBox'
 
 export class CompleteBox extends Component {
 
+    //checking if the sudoku is filled correctly comes here
+
     render() {
 
         const row = []

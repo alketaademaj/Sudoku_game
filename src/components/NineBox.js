@@ -3,6 +3,8 @@ import NumberBox from './NumberBox' //same file reference can you hear me?
 
 export class NineBox extends Component {
 
+    //checking if the sudoku is filled correctly comes here
+
     render() {
 
         const column = [0,1,2,3,4,5,6,7,8]
