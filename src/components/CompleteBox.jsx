@@ -2,18 +2,6 @@ import React, { Component } from "react";
 import NineBox from "./NineBox";
 
 export class CompleteBox extends Component {
-  //checking if the sudoku is filled correctly comes here
-
-  //moving with the keyboard
-  handleKeyPress = (event) => {
-    console.log(event.key);
-    //https://www.youtube.com/watch?v=kTzYoZyF45c for help
-  };
-
-  // event listener that listens to the key press - presses anything on the keyboard ITS NOT DETECTING ARROOWWWWSSS!!!
-  // add e.l. only once
-  // unmount the e.l -> take it and add it because its not needed anymore
-
   render() {
     const row = [];
 
@@ -32,7 +20,6 @@ export class CompleteBox extends Component {
     return (
       <div>
         <div className="complete">{row}</div>
-        <input type="text" id="one" onKeyPress={this.handleKeyPress} />
       </div>
     );
   }
