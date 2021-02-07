@@ -21,16 +21,24 @@ function App() {
     //console.log(selected)
     //console.log(event.key)
     if (event.key === "ArrowLeft") {
-      setSelected([selected[0], selected[1] - 1]) //1. row, 2. column 
+      if (selected[1] > 0) {
+        setSelected([selected[0], selected[1] - 1]) //1. row, 2. column 
+      }
     }
     else if (event.key === "ArrowRight") {
-      setSelected([selected[0], selected[1] + 1]) //we are first getting the first value with select[0] and with select [1] the value of column
+      if (selected[1] < 8) {
+        setSelected([selected[0], selected[1] + 1]) //we are first getting the first value with select[0] and with select [1] the value of column
+      }
     }
     else if (event.key === "ArrowUp") {
-      setSelected([selected[0] - 1, selected[1]])
+      if (selected[0] > 0) {
+        setSelected([selected[0] - 1, selected[1]])
+      }
     }
     else if (event.key === "ArrowDown") {
-      setSelected([selected[0] + 1, selected[1]])
+      if (selected[0] < 8) {
+        setSelected([selected[0] + 1, selected[1]])
+      }
     }
     else if (parseInt(event.key) > 0 && parseInt(event.key) < 10) {
       console.log(event.key)
@@ -48,7 +56,7 @@ function App() {
 
     return () => { // like a callback function 
       document.removeEventListener("keydown", keyChange); //example if you are making a get/ajax request, whatever data we get as a return before storing it on a state 
-    }
+    } // eslint-disable-next-line 
   }, [selected]) //only when it changes, the hook will be executed. It will only execute once, if it is left empty/ like componentdidmount
 
   return (
