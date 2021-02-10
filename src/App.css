@@ -4,7 +4,7 @@
   justify-content: center;
   float: center;
 }
-.centerAlign{
+.centerAlign {
   display: flex;
   width: 100%;
   margin: auto;
@@ -24,45 +24,66 @@
 .App-link {
   color: #61dafb;
 }
-
-.aBox{
-  margin:2px;
-  height:50px;
-  width:50px;
+.aBox {
+  height: 50px;
+  width: 50px;
   background-color: rgb(147, 194, 216);
-  transition: .1s ease-in-out;
-  border-radius: 3px; 
+  transition: 0.1s ease-in-out;
+  border-radius: 3px;
+  border: rgb(83, 142, 160) solid 1px;
+}
+.aBox:nth-child(10) {
+  border-right: black solid 3px;
 }
 .smallBox {
-  margin:2px;
-  height:50px;
-  width:50px;
+  height: 50px;
+  width: 50px;
   background-color: rgb(147, 194, 216);
-  transition: .1s ease-in-out;
-  border-radius: 3px; 
+  transition: 0.1s ease-in-out;
+  border-radius: 3px;
+  border: rgb(83, 142, 160) solid 1px;
 }
-.aBox:hover{
+.aBox:hover,
+.smallBox:hover {
   background-color: rgb(83, 142, 160);
 }
-.allBox{
+.allBox {
   /* display: flex; */
-  margin:none;
+  margin: none;
 }
-.nineBox{
-  display:flex;
+.nineBox {
+  position: relative;
+  display: flex;
   flex-direction: row;
   flex-wrap: wrap;
   /* justify-content: space-between;   */
 }
-
-.complete{
+.nineBox:nth-child(3),
+.nineBox:nth-child(6) {
+  border-bottom: black solid 3px;
+}
+.complete {
   display: flex;
   flex-wrap: wrap;
   width: 490px;
 }
-
 .selectNro {
-  display: inline-block;
   display: flex;
+  margin-right: 23px;
   margin-top: 20px;
+}
+.dummyDiv {
+  border-left: black solid 3px;
+  position: absolute;
+  height: 50px;
+  top: 0;
+}
+.dummyDivParent {
+  position: relative;
+}
+.blockBox {
+  background-color: rgb(162, 186, 194);
+}
+.currentBox {
+  background-color: rgb(83, 142, 160);
 }

@@ -13,6 +13,7 @@ export class CompleteBox extends Component {
           passingValue={this.props.changeSelected}
           selected={this.props.selected}
           numbValue={this.props.numbValue}
+          initialvalue={this.props.initialvalue}
         />
       );
     }
