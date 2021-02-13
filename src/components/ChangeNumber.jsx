@@ -1,9 +1,8 @@
 import React from "react";
 
-function ChangeNumber(props) {
-  //I NEED A NEW ARRAY WITH VALUES THAT WILL BE PUSHED TO ABOX AS A NEW DIV AND THEN STYLE THAT DIV
-  //Delete the previous div and push a new one to its place
+//the value, that is not on the grey box needs to be reset everytime --> e.target.value?
 
+function ChangeNumber(props) {
   const sudokuChange = () => {
     if (props.numbValue[props.selected[0] * 9 + props.selected[1]] == null) {
       const tempCopy = [...props.numbValue];

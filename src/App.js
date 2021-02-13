@@ -44,8 +44,8 @@ function App() {
     else if (parseInt(event.key) > 0 && parseInt(event.key) < 10) {
       console.log(event.key)
       //now do your thing
-      if (numbvalue[selected[0] * 9 + selected[1]] === null) { //array only understands the index of the elemnt 
-        const temp = [...numbvalue]; //spreading numbValue into another array and storing it into temp
+      if (initialvalue[selected[0] * 9 + selected[1]] === null) { //array only understands the index of the elemnt 
+        const temp = [...initialvalue]; //spreading numbValue into another array and storing it into temp
         temp[selected[0] * 9 + selected[1]] = event.key;
         setnumbValue(temp)
       }
@@ -67,7 +67,7 @@ function App() {
         <CompleteBox numbValue={numbvalue} initialvalue={initialvalue} selected={selected} changeSelected={onclick} />
       </div>
       <div className="centerAlign">
-        <SelectNumber numbValue={numbvalue} selected={selected} setnumbValue={setnumbValue} />
+        <SelectNumber numbValue={numbvalue} selected={selected} setnumbValue={setnumbValue} initialvalue={initialvalue} />
       </div>
     </div>
   );
