@@ -44,8 +44,8 @@ function App() {
     else if (parseInt(event.key) > 0 && parseInt(event.key) < 10) {
       console.log(event.key)
       //now do your thing
-      if (initialvalue[selected[0] * 9 + selected[1]] === null) { //array only understands the index of the elemnt 
-        const temp = [...initialvalue]; //spreading numbValue into another array and storing it into temp
+      if (numbvalue[selected[0] * 9 + selected[1]] === null) { //array only understands the index of the elemnt 
+        const temp = [...numbvalue]; //spreading numbValue into another array and storing it into temp
         temp[selected[0] * 9 + selected[1]] = event.key;
         setnumbValue(temp)
       }
