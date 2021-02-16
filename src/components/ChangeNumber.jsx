@@ -1,10 +1,11 @@
 import React from "react";
 
-//the value, that is not on the grey box needs to be reset everytime --> e.target.value?
-
 function ChangeNumber(props) {
   const sudokuChange = () => {
-    if (props.numbValue[props.selected[0] * 9 + props.selected[1]] == null) {
+    if (
+      props.initialvalue[props.selected[0] * 9 + props.selected[1]] === null
+    ) {
+      // == it doesnt care about the datatypes, === it checks the datatypes too
       const tempCopy = [...props.numbValue];
       tempCopy[props.selected[0] * 9 + props.selected[1]] = props.value;
       props.setnumbValue(tempCopy);
