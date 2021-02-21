@@ -3,11 +3,6 @@ import NumberBox from './NumberBox' //same file reference can you hear me?
 
 export class NineBox extends Component {
 
-    //checking if the sudoku is filled correctly comes here
-
-    //create a method that will have a loop inside of it 
-    //check if the blockbox has same value as the currentbox for first row first, after that impelment it on other rows as well 
-
     render() {
 
         const column = [0, 1, 2, 3, 4, 5, 6, 7, 8]

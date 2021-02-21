@@ -29,6 +29,31 @@ export class NumberBox extends Component {
   //   };
   //initialvalue={this.props.initialvalue}
 
+  //------------------------------------------------------------------------------------------------------->
+  //checking if the sudoku is filled correctly comes here
+
+  // no element in array that is repeated
+  // three different functions
+  // which row, which column, which block
+  // return the array relating to that row, column, block
+
+  componentDidUpdate() {
+    this.rowCheck();
+  }
+
+  rowCheck = () => {
+    //slice, get the exact junk from the array, helps you get a row 
+    console.log(this.props.row)
+  }
+
+  columnCheck = () => {
+    console.log("column")
+  }
+
+  blockCheck = () => {
+    console.log("block")
+  }
+
   createBlockBox = () => {
     if (this.props.initialvalue[this.props.row * 9 + this.props.column] !== null) {
       //add two classes
